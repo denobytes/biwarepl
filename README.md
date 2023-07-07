@@ -1,5 +1,5 @@
 
-**biwarepl** is a deno powered cli tool try out biwa scheme
+**biwarepl** is a deno powered cli tool to try out biwa scheme
 
 built on https://www.biwascheme.org/
 

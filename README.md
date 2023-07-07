@@ -1,4 +1,6 @@
 
+[![Latest version](https://deno.land/badge/biwarepl/version)](https://deno.land/x/biwarepl)
+
 **biwarepl** is a deno powered cli tool to try out biwa scheme
 
 built on https://www.biwascheme.org/
